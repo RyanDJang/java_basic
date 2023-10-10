@@ -4,7 +4,8 @@ public class Variable {
         double height = 180.1;
         String city = "Seoul";
 
-        System.out.println("num");
-        System.out.println(num);
+        System.out.println("num : " +num);
+        System.out.println("height : " +height);
+        System.out.println("city : " + city);
     }
 }
